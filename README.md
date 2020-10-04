@@ -1,6 +1,6 @@
-#SheHack'20
+#SheHack'20/
 Team Name: Siddhi
-Team Leader: Siddhi Mishra
+/Team Leader: Siddhi Mishra
 
 # FarmHub
 Problem Statement code: A-05
