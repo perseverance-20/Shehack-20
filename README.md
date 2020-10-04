@@ -1,4 +1,9 @@
+#SheHack'20
+Team Name: Siddhi
+Team Leader: Siddhi Mishra
+
 # FarmHub
+Problem Statement code: A-05
 Shehack-20
 
 FarmHub is an open-source platform where the request to sell and
